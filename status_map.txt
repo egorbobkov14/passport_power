@@ -1,0 +1,163 @@
+visa required; Visa required
+admission refused; Admission refused
+admission restricted; Admission refused
+affidavit of identity required; Visa required
+bespoke uk immigration status; Visa required
+currently suspended; Admission refused
+de facto visa required; Visa required
+ease; Visa not required
+easy visitor permit; Visa on arrival
+electronic authorization; eVisa
+electronic authorization system; eVisa
+electronic border system; eVisa
+electronic entry visa; eVisa
+electronic travel authorisation; eVisa
+electronic travel authorisation (eta); eVisa
+electronic travel authority; eVisa
+electronic travel authorization; eVisa
+electronic visa; eVisa
+electronic visa waiver / visa on arrival; Visa on arrival
+electronical travel authorization; eVisa
+emergency entry visa / visa on arrival; Visa on arrival
+entry permit on arrival; Visa on arrival
+entry permit on arrival or online entry permit; Visa on arrival
+eta; eVisa
+eta / free visa on arrival; Visa on arrival
+eta / online visa; eVisa
+eta / visa not required; Visa not required
+eta / visa on arrival; Visa on arrival
+eta required; eVisa
+eta-il; eVisa
+e-tourist card; eVisa
+e-tourist visa; eVisa
+evisa; eVisa
+e-visa; eVisa
+evisa / free visa on arrival; Visa on arrival
+evisa / visa not required; Visa not required
+evisa / visa on arrival; Visa on arrival
+evisa / visa on arrival (conditional); Visa on arrival
+evisa / visa on arrival; Visa on arrival
+e-visa or visa on arrival; Visa on arrival
+evisa required; eVisa
+evisa / visa on arrival; Visa on arrival
+evisa /visa on arrival; Visa on arrival
+e-visa / visa on arrival; Visa on arrival
+evisitor; eVisa
+e-voa / visa on arrival; Visa on arrival
+e-voa/visa on arrival; Visa on arrival
+free entry permit on arrival; Visa on arrival
+free evisa; eVisa
+free evisa / visa on arrival; Visa on arrival
+free visa on arrival; Visa on arrival
+free visitor permit on arrival; Visa on arrival
+free visitor’s permit on arrival; Visa on arrival
+free visitor's permit on arrival; Visa on arrival
+freedom of movement; Visa not required
+freedom of movement (european netherlands); Visa not required
+freedom of movement (mainland denmark); Visa not required
+id card valid; Visa not required
+indefinite; Visa not required
+invitation only; Visa required
+invitation required; Visa required
+k-eta; eVisa
+k-eta required; eVisa
+korean electronic travel authorization; eVisa
+nzetA; eVisa
+online visa; eVisa
+online visa (conditional); eVisa
+online visa / eta; eVisa
+online visa / free visa on arrival; Visa on arrival
+online visa / visa on arrival; Visa on arrival
+online visa required; eVisa
+online visitor e600 visa; eVisa
+particular visit regime; Visa required
+passport not recognized; Admission refused
+permission required; Visa required
+permit on arrival; Visa on arrival
+pre-enrolment; Visa required
+pre-visa on arrival; Visa on arrival
+seychelles electronic border system; eVisa
+tourist card; eVisa
+tourist card / evisa; eVisa
+tourist card required; eVisa
+tourist card required / evisa; eVisa
+travel banned; Admission refused
+travel banned by the malaysian government; Admission refused
+travel certificate required; Visa required
+travel restricted; Admission refused
+travel restricted by u.s. government; Admission refused
+travel restricted by uae government; Admission refused
+visa de facto required; Visa required
+visa free; Visa not required
+visa not required; Visa not required
+visa not required (conditional); Visa not required
+visa not required (conditional) / evisa; Visa not required
+visa not required (conditionally); Visa not required
+visa not required (conditions apply); Visa not required
+visa not required (special permit required); Visa required
+visa not required / evisa; Visa not required
+visa on arrival; Visa on arrival
+visa on arrival (conditional); Visa on arrival
+visa on arrival / evisa; Visa on arrival
+visa on arrival /evisa; Visa on arrival
+visa required; Visa required
+visa required (conditional eta); eVisa
+visa required / conditional evisa; eVisa
+visa required / visa on arrival; Visa on arrival
+visa required/conditional visa exemption; Visa required
+visa waiver program; Visa not required
+visa waiver registration; Visa not required
+visa-required; Visa required
+visitor e600 visa; eVisa
+visitor's permit on arrival; Visa on arrival
+with a valid home return permit or chinese travel document; Freedom of movement
+with home return permit (freedom of movement); Freedom of movement
+with mainland travel permit for taiwan residents or chinese travel document only, including airside transit; Freedom of movement
+evisa / free visa on arrival; Visa on arrival
+free visitor's permit on arrival; Visa on arrival
+evisa; eVisa
+visa required; Visa required
+freedom of movement; Visa not required
+free visa on arrival; Visa on arrival
+visitor's permit on arrival; Visa on arrival
+entry permit on arrival; Visa on arrival
+online visa required; eVisa
+visa not required; Visa not required
+online visa / visa on arrival; Visa on arrival
+online visa; eVisa
+de facto visa required; Visa required
+free entry permit on arrival; Visa on arrival
+visa on arrival; Visa on arrival
+evisa / visa on arrival; Visa on arrival
+freedom of movement with mainland travel permit or chinese travel document only, hksar passport is only suitable for transit in mainland china; Freedom of movement
+visa free; Visa not required
+visa on arrival (conditional); Visa on arrival
+visa on arrival / evisa; Visa on arrival
+e-visa; eVisa
+visitor e600 visa; eVisa
+free visitor’s permit on arrival; Visa on arrival
+visa not required (conditional); Visa not required
+electronic visa; eVisa
+travel certificate required; Visa required
+online visitor e600 visa; eVisa
+visa required (conditional eta); eVisa
+tourist card / evisa; eVisa
+visa not required / evisa; Visa not required
+tourist card required; eVisa
+evisa /visa on arrival; Visa on arrival
+travel banned by the israel government; Admission refused
+sae; Visa on arrival
+sebs; eVisa
+freedom of movement (conditional); Visa not required
+e-voa; Visa on arrival
+evisa/ visa on arrival; eVisa
+evisa/visa on arrival; eVisa
+special permit required; Visa required
+electronic travel authorisation required; eVisa
+e-visa/visa on arrival; eVisa
+visa required and travel ban; Visa required
+evisatr; eVisa
+evisa / visa on arrival}; eVisa
+esta; eVisa
+online visa/visa on arrival; eVisa
+visa not required/evisa; Visa not required
