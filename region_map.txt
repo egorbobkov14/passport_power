@@ -1,0 +1,193 @@
+Singapore, Asia
+Finland, Europe
+Malta, Europe
+France, Europe
+Kingdom of Denmark, Europe
+Belgium, Europe
+Sweden, Europe
+Ireland, Europe
+Germany, Europe
+Kingdom of the Netherlands, Europe
+Luxembourg, Europe
+Austria, Europe
+Spain, Europe
+Switzerland, Europe
+Norway, Europe
+Greece, Europe
+Italy, Europe
+Portugal, Europe
+United Arab Emirates, Asia
+Czech Republic, Europe
+Poland, Europe
+Slovenia, Europe
+Slovakia, Europe
+New Zealand, Oceania
+Malaysia, Asia
+Hungary, Europe
+Iceland, Europe
+Cyprus, Europe
+Croatia, Europe
+Lithuania, Europe
+Japan, Asia
+Estonia, Europe
+Romania, Europe
+Australia, Oceania
+United Kingdom, Europe
+Liechtenstein, Europe
+Canada, North America
+Latvia, Europe
+Bulgaria, Europe
+United States, North America
+South Korea, Asia
+Monaco, Europe
+Chile, South America
+Brazil, South America
+Argentina, South America
+Andorra, Europe
+Brunei, Asia
+San Marino, Europe
+Barbados, North America
+Mexico, North America
+Uruguay, South America
+Saint Kitts and Nevis, North America
+The Bahamas, North America
+Israel, Asia
+Saint Vincent and the Grenadines, North America
+Trinidad and Tobago, North America
+Seychelles, Africa
+Ukraine, Europe
+Antigua and Barbuda, North America
+Peru, South America
+Costa Rica, North America
+Panama, North America
+Paraguay, South America
+Saint Lucia, North America
+Serbia, Europe
+Colombia, South America
+Dominica, North America
+Mauritius, Africa
+Georgia, Europe
+Grenada, North America
+Montenegro, Europe
+El Salvador, North America
+North Macedonia, Europe
+Guatemala, North America
+Solomon Islands, Oceania
+Honduras, North America
+Bosnia and Herzegovina, Europe
+Albania, Europe
+Moldova, Europe
+Samoa, Oceania
+Marshall Islands, Oceania
+Venezuela, South America
+Tonga, Oceania
+Tuvalu, Oceania
+Nicaragua, North America
+Kiribati, Oceania
+Federated States of Micronesia, Oceania
+Palau, Oceania
+Russia, Europe
+Turkey, Europe
+Qatar, Asia
+Kuwait, Asia
+Timor-Leste, Asia
+South Africa, Africa
+Belize, North America
+Maldives, Asia
+Saudi Arabia, Asia
+Jamaica, North America
+Kazakhstan, Europe
+Ecuador, South America
+Belarus, Europe
+People's Republic of China, Asia
+Oman, Asia
+Bahrain, Asia
+Thailand, Asia
+Fiji, Oceania
+Guyana, South America
+Indonesia, Asia
+Morocco, Africa
+Mongolia, Asia
+Botswana, Africa
+Bolivia, South America
+Suriname, South America
+Vanuatu, Oceania
+Armenia, Europe
+Papua New Guinea, Oceania
+Namibia, Africa
+Azerbaijan, Europe
+Nauru, Oceania
+Lesotho, Africa
+Zimbabwe, Africa
+Dominican Republic, North America
+Philippines, Asia
+Zambia, Africa
+Uzbekistan, Asia
+Tunisia, Africa
+Kenya, Africa
+The Gambia, Africa
+Ghana, Africa
+Tanzania, Africa
+India, Asia
+Eswatini, Africa
+Cuba, North America
+Jordan, Asia
+Uganda, Africa
+Vietnam, Asia
+Mozambique, Africa
+Cambodia, Asia
+Malawi, Africa
+Gabon, Africa
+Madagascar, Africa
+Cape Verde, Africa
+Egypt, Africa
+Kyrgyzstan, Asia
+Sierra Leone, Africa
+Angola, Africa
+Benin, Africa
+Algeria, Africa
+Tajikistan, Asia
+Laos, Asia
+Senegal, Africa
+Turkmenistan, Asia
+Lebanon, Asia
+Sri Lanka, Asia
+Rwanda, Africa
+Burkina Faso, Africa
+Liberia, Africa
+Democratic Republic of the Congo, Africa
+Cameroon, Africa
+Myanmar, Asia
+São Tomé and Príncipe, Africa
+Guinea, Africa
+Iran, Asia
+Guinea-Bissau, Africa
+Ivory Coast, Africa
+Niger, Africa
+Bhutan, Asia
+Mauritania, Africa
+Bangladesh, Asia
+South Sudan, Africa
+Togo, Africa
+Mali, Africa
+Comoros, Africa
+Chad, Africa
+Nepal, Asia
+Ethiopia, Africa
+Equatorial Guinea, Africa
+Central African Republic, Africa
+Libya, Africa
+Yemen, Asia
+North Korea, Asia
+Burundi, Africa
+Iraq, Asia
+Nigeria, Africa
+Haiti, North America
+Pakistan, Asia
+Republic of the Congo, Africa
+Djibouti, Africa
+Afghanistan, Asia
+Sudan, Africa
+Eritrea, Africa
+Syria, Asia
+Somalia, Africa
